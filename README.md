@@ -16,7 +16,7 @@ When this template is used, it creates a new repository with:
 
 ## Inputs
 
-- `repo_name` – the name of the new repository (provided automatically by Cortex in the onboarding workflow).
+- `repo_name` – the name of the new repository (provided in Cortex in the onboarding workflow).
 
 ## Outputs
 
