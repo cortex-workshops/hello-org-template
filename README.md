@@ -25,4 +25,4 @@ When this template is used, it creates a new repository with:
   ```bash
   python hello_org.py
 and see:
-Hello, World!
+```Hello, World!```
